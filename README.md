@@ -11,7 +11,6 @@ Delete tasks with one click
 
 Persistent storage using localStorage
 
-Responsive design works on all devices
 
 Zero dependencies (except React and uuid)
 
